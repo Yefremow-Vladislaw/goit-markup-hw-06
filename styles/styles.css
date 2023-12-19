@@ -961,17 +961,11 @@ transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
     }
     .section {
       padding: 120px 0;
-      max-width: 1440px;
-      margin: 0 auto;
-    }
-    .header-section, .footer-section
-    {
-    max-width: 1440px;
-    margin: 0 auto;
     }
     .banner
     {
       padding: 188px 0;
+      max-width: 1440px;
     }
     .contacts-list
     {
